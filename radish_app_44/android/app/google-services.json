@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037249609361",
+    "project_id": "adcore-f0e7f",
+    "storage_bucket": "adcore-f0e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037249609361:android:62db614c263b387a76c930",
+        "android_client_info": {
+          "package_name": "com.example.radish_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037249609361-a0shik04g14ln6kdm7m3gcu88t946jp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radish_app",
+            "certificate_hash": "e0eff37a7cd8fe2530b5e1cf734e8d6c6ba50721"
+          }
+        },
+        {
+          "client_id": "1037249609361-4l7lsgvr8phnp7iviu28dfj646a3ss8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxwUQle1MmMydDt8tpamyb0gLAjfUJHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037249609361-4l7lsgvr8phnp7iviu28dfj646a3ss8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
